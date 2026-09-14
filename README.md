@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+https://ghstats.dev/api/card?username=caiopsq&theme=light&border_radius=20
+
+
+
 <!--
 **caiopsq/caiopsq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
