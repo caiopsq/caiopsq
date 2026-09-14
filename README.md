@@ -1,4 +1,5 @@
 ## Hi there 👋
+<HTML>
 <style>
     .child{
         margin: 1vw;
@@ -13,6 +14,8 @@
 <img class="child" src="https://ghstats.dev/api/sparkline?username=caiopsq&theme=light&days=365&width=320&height=80&border_radius=20" alt="Contribution Sparkline" />
 </div>
 </div>
+</HTML>
+
 <!--
 **caiopsq/caiopsq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
