@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<img src="https://ghstats.dev/api/card?username=caiopsq&theme=light&border_radius=20&hide=stars" alt="GitHub Stats Card" />
+<img src="https://ghstats.dev/api/card?username=caiopsq&theme=light&border_radius=20&hide=stars" alt="GitHub Stats Card" width="412px"/>
 
-<img src="https://ghstats.dev/api/langs?username=caiopsq&theme=light" alt="Top Languages" />
+<img src="https://ghstats.dev/api/langs?username=caiopsq&theme=light&border_radius=20" alt="Top Languages"  width="412px"/>
 
 <img src="https://ghstats.dev/api/sparkline?username=caiopsq&theme=light&days=365&width=320&height=80&border_radius=20" alt="Contribution Sparkline" />
 
