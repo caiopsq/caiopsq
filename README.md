@@ -2,6 +2,9 @@
 
 <img src="https://ghstats.dev/api/card?username=caiopsq&theme=light&border_radius=20&hide=stars" alt="GitHub Stats Card" />
 
+<img src="https://ghstats.dev/api/langs?username=caiopsq&theme=light" alt="Top Languages" />
+
+<img src="https://ghstats.dev/api/sparkline?username=caiopsq&theme=light&days=365&width=320&height=80&border_radius=20" alt="Contribution Sparkline" />
 
 <!--
 **caiopsq/caiopsq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
