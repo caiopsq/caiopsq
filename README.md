@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-https://ghstats.dev/api/card?username=caiopsq&theme=light&border_radius=20
-
+<img src="https://ghstats.dev/api/card?username=caiopsq&theme=light&border_radius=20" alt="GitHub Stats Card" />
 
 
 <!--
