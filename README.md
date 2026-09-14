@@ -1,11 +1,18 @@
 ## Hi there 👋
+<style>
+    .child{
+        margin: 1vw;
+    }
+</style>
+<div style="display:flex; flex-wrap: wrap;">
+<img class="child" src="https://ghstats.dev/api/card?username=caiopsq&theme=light&border_radius=20&hide=stars" alt="GitHub Stats Card" width="412px"/>
 
-<img src="https://ghstats.dev/api/card?username=caiopsq&theme=light&border_radius=20&hide=stars" alt="GitHub Stats Card" width="412px"/>
+<div style="display: flex; flex-direction: column">
+<img class="child" src="https://ghstats.dev/api/langs?username=caiopsq&theme=light&border_radius=20" alt="Top Languages"  width="412px"/>
 
-<img src="https://ghstats.dev/api/langs?username=caiopsq&theme=light&border_radius=20" alt="Top Languages"  width="412px"/>
-
-<img src="https://ghstats.dev/api/sparkline?username=caiopsq&theme=light&days=365&width=320&height=80&border_radius=20" alt="Contribution Sparkline" />
-
+<img class="child" src="https://ghstats.dev/api/sparkline?username=caiopsq&theme=light&days=365&width=320&height=80&border_radius=20" alt="Contribution Sparkline" />
+</div>
+</div>
 <!--
 **caiopsq/caiopsq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
